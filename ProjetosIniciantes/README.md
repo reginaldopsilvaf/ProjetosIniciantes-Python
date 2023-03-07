@@ -1,2 +1,2 @@
-# Primeiros projetos simplórios
-Projetos muito simples apenas para aprender a utilizar o GitHub/Git
+# Primeiros projetos simples
+Projetos muito simples apenas para aprender a utilizar o GitHub/Git.
